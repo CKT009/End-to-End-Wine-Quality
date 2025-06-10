@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: WineQuality
+Version: 0.0.0
+Summary: A small python package for mll app
+Home-page: https://github.com/CKT009/End-to-End-Wine-Quality
+Author: CKT009
+Author-email: ahmadareej244@gmail.com
+Project-URL: Bug Tracker, https://github.com/CKT009/End-to-End-Wine-Quality/issues
+License-File: LICENSE
+
+# End-to-End-Wine-Quality

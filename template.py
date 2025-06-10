@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(level=logging.INFO, 
                     format='[%(asctime)s]: %(message)s')
 
-project_name = "Wine Quality"
+project_name = "WineQuality"
 
 list_of_files = [
     f"src/{project_name}/__init__.py",
