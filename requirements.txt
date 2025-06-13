@@ -1,5 +1,5 @@
 pandas
-notebook
+# notebook
 numpy
 scikit-learn
 matplotlib
